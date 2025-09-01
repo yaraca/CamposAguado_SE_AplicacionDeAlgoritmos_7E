@@ -1,6 +1,6 @@
 # CamposAguado_SE_AplicacionDeAlgoritmos_7E
 
-# 📘 Aplicación de Algoritmos de Inteligencia Artificial
+#  Aplicación de Algoritmos de Inteligencia Artificial
 
 Este repositorio contiene implementaciones prácticas de tres algoritmos de **Inteligencia Artificial (IA)**, aplicados a problemas reales y cotidianos.  
 El objetivo es demostrar cómo distintos enfoques de la IA (grafos, probabilidad y redes bayesianas) permiten resolver problemas de **búsqueda, inferencia y predicción**.
